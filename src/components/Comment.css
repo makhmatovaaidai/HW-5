@@ -1,0 +1,29 @@
+.UserInfo img {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  top: 12px;
+}
+
+/* .Comment-second {
+  background-color: bisque;
+} */
+
+.comment-first {
+  background-color:coral;
+}
+
+.comment-second {
+  background-color: pink;
+}
+.Comment-text{
+  border:2px solid rgb(7, 6, 6) ;
+  width: 13%;
+  height: 190px;
+  box-shadow: 5px 5px 5px black;
+  font-size: 1.6rem;
+  position: relative;
+  left: 44%;
+  top:40px;
+  background-color: coral;
+}
